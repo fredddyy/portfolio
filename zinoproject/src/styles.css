@@ -1,0 +1,42 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+    font-family:'Comic Sans MS', cursive, sans-serif
+}
+td{
+    background:lightgrey;
+    padding: 5px;
+   
+}
+
+th{
+    background-color:  #4CAF50;
+}
+
+table, th, td {
+    width: 80%;
+    border-bottom: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+button#addButton{
+    border-radius: 25px;
+    background:lightblue;
+    width: 20%;
+
+}
+
+button#deleteButton{
+    border-radius: 25px;
+    background:lightblue;
+  
+
+}
+ input{
+    border-radius: 25px;
+    width: 60%;
+ }
